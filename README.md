@@ -1,2 +1,2 @@
 # first-code
-this is the first repo
+write any thing in this as ur first contribution.
